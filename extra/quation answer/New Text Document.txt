@@ -1,0 +1,69 @@
+
+
+1.features of java?
+---->   Object Oriented. In Java, everything is an Object. ...
+	Platform Independent. ...
+	Simple. ...
+	Secure. ...
+	Architecture-neutral. ...
+	Portable. ...
+	Robust. ...
+	Multithreaded.
+
+
+
+2.why java is platform independent?
+----> 	   Platform independent language means once compiled you can execute the 		program on any platform (OS). Java is platform independent. Because the 		Java compiler converts the source code to bytecode, which is Intermidiate 	Language. Bytecode can be executed on any platform (OS) using JVM( Java		Virtual Machine).
+
+
+3.what is variable?
+---->	   A Java variable is a piece of memory that can contain a data 	value.Variables are typically used to store information which your Java 	program needs to do its job.
+
+
+4.list of primitive datatype along with their size and values?
+	|---------------|---------------|-----------------------|
+---->	|   data type	|	 byte	|	defaultvalue	|
+	|---------------|---------------|-----------------------|
+	|	byte	|	1b/8bit	|	0		|
+	|	short	|	2b/16bit|	0		|
+	|	int	|	4b/32bit|	0		|
+	|	long 	|	8b/64bit|	0l		|
+	|	float	|	4b/32bit|	0.0f		|
+	|	double	|	8b/64bit|	0.0		|
+	|	char	|	2b/16bit|	'u0000'		|
+	|	boolean	|	1bit	|	false		|
+	|---------------|---------------|-----------------------|
+
+
+5.is java purely object oriented?if yea/no why ?
+---->	    Java is not because it supports Primitive datatype to be used,which 	are not objects.
+
+
+6.Commands to run java program?
+---->	    file name =Nikunj.java
+	open command promt and go where your file saved.
+	javac Nikunj.java  =compile the file
+	java Nikunj =run the file
+
+
+7.what is class ?
+
+8.what is object?
+
+9.what is method and what are the advantages of method?
+
+10. what is inheritance?
+
+11.Explain different types of it with example?
+
+12.what is reference variable?
+
+13.what is methos overloading?
+
+14.what is method overriding?
+
+15.list the rule of method overloading?
+
+17.explain what is static and final keywords?
+
+18. 

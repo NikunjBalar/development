@@ -1,0 +1,4 @@
+vibgyor
+switch with interger and character and string
+negation
+scanner for character and strings
