@@ -1,0 +1,11 @@
+
+‰squid:UselessImportCheck"HRemove this unused import 'org.omg.CORBA.portable.ApplicationException'.(ÓŸë¹8“«¸…ë-HŸRMINORZ
+CODE_SMELL
+esquid:S1135"2Complete the task associated to this TODO comment.(‡ñÅ¼8ì™…ë-H™RINFOZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨àŠj8ù ×…ë-H±RMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(à¤»8Âí€†ë-HÚRMAJORZ
+CODE_SMELL

@@ -1,0 +1,15 @@
+
+osquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ÅÈ”ÍHeRBLOCKERZBUG
+dsquid:S2589"8Remove this expression which always evaluates to "false"(¾…ŠHfRMAJORZ
+CODE_SMELL
+õsquid:S1598"ÀThis file "FrindInformation.java" should be located in "com\nik\JDBC\loadDriver\ForNameMethod" directory, not in "D:\JAVA_Eclipse\Practice\01102019\src\com\nik\JDBC\1loadDriver\ForNameMethod".(¢Ë˜ÑûÿÿÿÿHgRCRITICALZ
+CODE_SMELL
+lsquid:S2259"GA "NullPointerException" could be thrown; "statement" is nullable here.(³úÀ‹HhRMAJORZBUG
+Œsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢Ë˜ÑûÿÿÿÿHiRMINORZ
+CODE_SMELL
+Wsquid:S1148!"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHjRMINORZVULNERABILITY
+Œsquid:S2068"V'password' detected in this expression, review this potentially hard-coded credential.(ÛÁ×ŒûÿÿÿÿHkRBLOCKERZVULNERABILITY
+]squid:S1135"2Complete the task associated to this TODO comment.(‡ñÅ¼HlRINFOZ
+CODE_SMELL
+bsquid:S1135 "2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHmRINFOZ
+CODE_SMELL

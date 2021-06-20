@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;filehandling/src/com/jokerapp/filehanling/FileReader.java&apos; to &apos;FileReaderDemo.java&apos;" description="Rename resource &apos;FileReader.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/jokerapp/filehanling/FileReader.java" name="FileReaderDemo.java" stamp="1576903984631" updateReferences="true"/>
+</session>

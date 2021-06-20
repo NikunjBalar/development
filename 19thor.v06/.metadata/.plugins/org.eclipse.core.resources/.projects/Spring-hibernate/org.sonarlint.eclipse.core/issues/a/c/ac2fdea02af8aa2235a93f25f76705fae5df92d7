@@ -1,0 +1,5 @@
+
+˜squid:UselessImportCheck"WRemove this unused import 'org.springframework.orm.hibernate5.LocalSessionFactoryBean'.(ÏÒÅÑ8¤“õê-HRMINORZ
+CODE_SMELL
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Àµ¤ĞûÿÿÿÿHRMINORZ
+CODE_SMELL

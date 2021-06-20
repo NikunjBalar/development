@@ -1,0 +1,24 @@
+
+psquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(áùï¡Hå8RBLOCKERZBUG
+dsquid:S2589&"7Remove this expression which always evaluates to "true"(·ÿÛ≈Hç8RMAJORZ
+CODE_SMELL
+±squid:S11861"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ï£¡ÔHä8RCRITICALZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ò¸ÌéHà8RMAJORZ
+CODE_SMELL
+Xsquid:S1148$"#Use a logger to log this exception.(Ä…‘Ö˝ˇˇˇˇHí8RMINORZVULNERABILITY
+àsquid:S2068"V'password' detected in this expression, review this potentially hard-coded credential.(áùï¡Hè8RBLOCKERZVULNERABILITY
+csquid:S1135+"2Complete the task associated to this TODO comment.(’ÃêÆ˛ˇˇˇˇHî8RINFOZ
+CODE_SMELL
+d
+squid:S106 "9Replace this use of System.out or System.err by a logger.(˜≈ëYHé8RMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(å±¶ó˘ˇˇˇˇHê8RMAJORZ
+CODE_SMELL
+|squid:S001001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï£¡ÔHã8RMINORZ
+CODE_SMELL
+csquid:S1135#"2Complete the task associated to this TODO comment.(’ÃêÆ˛ˇˇˇˇHì8RINFOZ
+CODE_SMELL
+çsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚ÇçŒ˝ˇˇˇˇHë8RMINORZ
+CODE_SMELL
+Xsquid:S1148,"#Use a logger to log this exception.(Ä…‘Ö˝ˇˇˇˇHâ8RMINORZVULNERABILITY

@@ -1,0 +1,13 @@
+INDEX VERSION 1.4+D:\eclips\JAVA_Eclipse\19thor.v06\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4186318778.index
+791324743.index
+4155704915.index
+3991265480.index
+2193309373.index
+4151408217.index
+67340661.index
+2251463733.index
+3763981045.index
+996269402.index
+2879433117.index
+2263598636.index

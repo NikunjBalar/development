@@ -1,0 +1,16 @@
+
+vsquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÿ¶²\H•8RBLOCKERZBUG
+esquid:S2589"8Remove this expression which always evaluates to "false"(Š³³ÂH–8RMAJORZ
+CODE_SMELL
+esquid:S2259"@A "NullPointerException" could be thrown; "pr" is nullable here.(üõ¦wH—8RMAJORZBUG
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(â‚ÎıÿÿÿÿH˜8RMINORZ
+CODE_SMELL
+Xsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH™8RMINORZVULNERABILITY
+Xsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHš8RMINORZVULNERABILITY
+squid:S2068"V'password' detected in this expression, review this potentially hard-coded credential.(ÛÁ×ŒûÿÿÿÿH›8RBLOCKERZVULNERABILITY
+csquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHœ8RINFOZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿH8RINFOZ
+CODE_SMELL
+Ssquid:S1481"&Remove this unused "i" local variable.(Ã˜–´H8RMINORZ
+CODE_SMELL

@@ -1,0 +1,11 @@
+
+squid:S1450"URemove the "welthe" field and declare it as a local variable in the relevant methods.( Ê‹Óÿÿÿÿÿ8«Àó…ë-HÌRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹‡˜Úıÿÿÿÿ8É©Ô…ë-H¬RMAJORZ
+CODE_SMELL
+csquid:S1068"*Remove this unused "welthe" private field.( Ê‹Óÿÿÿÿÿ8±Éò…ë-HÆRMAJORZ
+CODE_SMELL
+\squid:S1068
+"(Remove this unused "name" private field.(Ë¥¼8É©Ô…ë-H­RMAJORZ
+CODE_SMELL

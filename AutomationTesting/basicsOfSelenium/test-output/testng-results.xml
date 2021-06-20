@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30966" started-at="2020-04-10T13:22:45Z" finished-at="2020-04-10T13:23:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30966" started-at="2020-04-10T13:22:45Z" finished-at="2020-04-10T13:23:16Z">
+      <class name="com.bridgelabz.basicsOfSelenium.TestCases">
+        <test-method status="PASS" signature="driver()[pri:0, instance:com.bridgelabz.basicsOfSelenium.TestCases@23223dd8]" name="driver" is-config="true" duration-ms="7422" started-at="2020-04-10T18:52:45Z" finished-at="2020-04-10T18:52:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driver -->
+        <test-method status="PASS" signature="test_ListBox()[pri:0, instance:com.bridgelabz.basicsOfSelenium.TestCases@23223dd8]" name="test_ListBox" duration-ms="21864" started-at="2020-04-10T18:52:52Z" finished-at="2020-04-10T18:53:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_ListBox -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bridgelabz.basicsOfSelenium.TestCases@23223dd8]" name="tearDown" is-config="true" duration-ms="1658" started-at="2020-04-10T18:53:14Z" finished-at="2020-04-10T18:53:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bridgelabz.basicsOfSelenium.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

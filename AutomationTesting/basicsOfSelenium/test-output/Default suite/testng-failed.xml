@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.bridgelabz.basicsOfSelenium.TestCases">
+        <methods>
+          <include name="testLocators"/>
+          <include name="driver"/>
+          <include name="tearDown"/>
+          <include name="test_ScrollUpDown"/>
+        </methods>
+      </class> <!-- com.bridgelabz.basicsOfSelenium.TestCases -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

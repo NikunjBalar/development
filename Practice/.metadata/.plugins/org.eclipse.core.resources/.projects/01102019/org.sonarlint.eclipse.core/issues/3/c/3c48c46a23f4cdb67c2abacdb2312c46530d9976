@@ -1,0 +1,13 @@
+
+isquid:S1135""2Complete the task associated to this TODO comment.(ױּ®‏ÿÿÿÿ8‘נצרי-H=RINFOZ
+CODE_SMELL
+^squid:S1148#"#Use a logger to log this exception.(€ֹװ…‎ÿÿÿÿ8‘נצרי-H:RMINORZVULNERABILITY
+ksquid:S2589"8Remove this expression which always evaluates to "false"(¾…8‘נצרי-H8RMAJORZ
+CODE_SMELL
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§™´»ûÿÿÿÿH3RMINORZ
+CODE_SMELL
+dsquid:S1135"2Complete the task associated to this TODO comment.(‡סֵ¼8‘נצרי-H<RINFOZ
+CODE_SMELL
+ssquid:S2259"GA "NullPointerException" could be thrown; "statement" is nullable here.(³תְ‹8‘נצרי-H9RMAJORZBUG
+vsquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ֲÊע8‘נצרי-H7RBLOCKERZBUG
+“squid:S2068"V'password' detected in this expression, review this potentially hard-coded credential.(€רןתÿÿÿÿ8‘נצרי-H;RBLOCKERZVULNERABILITY

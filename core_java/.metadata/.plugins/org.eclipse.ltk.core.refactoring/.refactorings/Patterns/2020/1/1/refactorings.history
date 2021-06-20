@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Patterns/src/bridglabs/appti/day3&apos; to &apos;day4&apos;" description="Rename resource &apos;day3&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/bridglabs/appti/day3" name="day4" stamp="1578048657435" updateReferences="true"/>
+</session>

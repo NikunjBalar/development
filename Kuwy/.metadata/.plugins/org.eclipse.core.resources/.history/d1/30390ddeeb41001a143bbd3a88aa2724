@@ -1,0 +1,17 @@
+package com.kuwy.entity;
+
+import lombok.Data;
+
+@Data
+public class LoanEntity {
+
+	
+	private int id;
+	private int mfgYear;
+	private String selectBrand;
+	private String selectLocation;
+	private String ownerShip;
+	private String condition;
+	private double vehiclePrice;
+	
+}

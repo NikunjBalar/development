@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Spring_Datasource/src/resources/context.xml&apos; to &apos;container.xml&apos;" description="Rename resource &apos;context.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/resources/context.xml" name="container.xml" stamp="1574185133644" updateReferences="true"/>
+</session>

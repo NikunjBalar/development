@@ -1,0 +1,5 @@
+INDEX VERSION 1.130
+D:\eclips\JAVA_Eclipse\core_java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2846031032.index
+\Clientjsp\src
+D:\eclips\JAVA_Eclipse\core_java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3247561505.index
+\puliyogare_servlet_jsp\src

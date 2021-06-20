@@ -1,0 +1,5 @@
+
+qsquid:S1854	"8Remove this useless assignment to local variable "bank".(Ó¼Ô—şÿÿÿÿ8Å¾Öéì-HÈ<RMAJORZ
+CODE_SMELL
+bsquid:S1481	")Remove this unused "bank" local variable.(Ó¼Ô—şÿÿÿÿ8Å¾Öéì-HÉ<RMINORZ
+CODE_SMELL

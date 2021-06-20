@@ -1,0 +1,12 @@
+
+csquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHÑ8RINFOZ
+CODE_SMELL
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚ÂĞÉùÿÿÿÿHÒ8RMINORZ
+CODE_SMELL
+tsquid:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(‡²€·ıÿÿÿÿHÓ8RBLOCKERZBUG
+Xsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÔ8RMINORZVULNERABILITY
+squid:S2068"V'password' detected in this expression, review this potentially hard-coded credential.(ÛÁ×ŒûÿÿÿÿHÕ8RBLOCKERZVULNERABILITY
+csquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHÖ8RINFOZ
+CODE_SMELL
+usquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(×ôıÿÿÿÿH×8RBLOCKERZBUG
+Xsquid:S1148 "#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHØ8RMINORZVULNERABILITY

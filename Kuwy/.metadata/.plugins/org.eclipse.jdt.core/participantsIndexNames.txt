@@ -1,0 +1,5 @@
+INDEX VERSION 1.130
+D:\eclips\JAVA_Eclipse\Kuwy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2250634847.index
+\Kuwy\src
+D:\eclips\JAVA_Eclipse\Kuwy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3252898005.index
+\Kuwy\src

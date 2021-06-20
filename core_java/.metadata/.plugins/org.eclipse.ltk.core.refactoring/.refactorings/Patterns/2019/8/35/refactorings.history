@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Patterns/src/aptiprogramme/Exame/anagramme.java&apos; to &apos;Anagramme.java&apos;" description="Rename resource &apos;anagramme.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/aptiprogramme/Exame/anagramme.java" name="Anagramme.java" stamp="1566878332236" updateReferences="true"/>
+</session>

@@ -1,0 +1,8 @@
+
+isquid:S1854"5Remove this useless assignment to local variable "m".(¥ýƒÃ8–ÄçÍì-HRMAJORZ
+CODE_SMELL
+Zsquid:S1481"&Remove this unused "m" local variable.(¥ýƒÃ8¥ÄçÍì-H’RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡…½¦ÿÿÿÿÿ8¥ÄçÍì-H‘RMAJORZ
+CODE_SMELL

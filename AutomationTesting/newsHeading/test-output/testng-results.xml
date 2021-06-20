@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8531" started-at="2020-07-21T11:28:38Z" finished-at="2020-07-21T11:28:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8531" started-at="2020-07-21T11:28:38Z" finished-at="2020-07-21T11:28:47Z">
+      <class name="com.bridgelabz.selenium.test.TestNewsHeading">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.bridgelabz.selenium.test.TestNewsHeading@23223dd8]" name="setup" is-config="true" duration-ms="6724" started-at="2020-07-21T16:58:38Z" finished-at="2020-07-21T16:58:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test_GetNews()[pri:0, instance:com.bridgelabz.selenium.test.TestNewsHeading@23223dd8]" name="test_GetNews" duration-ms="1103" started-at="2020-07-21T16:58:45Z" finished-at="2020-07-21T16:58:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_GetNews -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bridgelabz.selenium.test.TestNewsHeading@23223dd8]" name="tearDown" is-config="true" duration-ms="656" started-at="2020-07-21T16:58:46Z" finished-at="2020-07-21T16:58:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bridgelabz.selenium.test.TestNewsHeading -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

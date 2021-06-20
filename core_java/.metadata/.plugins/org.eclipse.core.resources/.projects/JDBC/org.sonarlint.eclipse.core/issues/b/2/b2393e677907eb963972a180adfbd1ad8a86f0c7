@@ -1,0 +1,27 @@
+
+osquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(›è÷³HŸ8RBLOCKERZBUG
+wsquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¤è”ÁH 8RBLOCKERZBUG
+jsquid:S2589"8Remove this expression which always evaluates to "false"(É§ÓÌûÿÿÿÿH¡8RMAJORZ
+CODE_SMELL
+jsquid:S2589"8Remove this expression which always evaluates to "false"(É§ÓÌûÿÿÿÿH¢8RMAJORZ
+CODE_SMELL
+esquid:S2259 "?A "NullPointerException" could be thrown; "r" is nullable here.(­èâ«H£8RMAJORZBUG
+esquid:S2259"@A "NullPointerException" could be thrown; "ps" is nullable here.(ä›ªH¤8RMAJORZBUG
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(â‚ÎıÿÿÿÿH¥8RMINORZ
+CODE_SMELL
+Xsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH¦8RMINORZVULNERABILITY
+Xsquid:S1148#"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH§8RMINORZVULNERABILITY
+squid:S2068"V'password' detected in this expression, review this potentially hard-coded credential.(ÛÁ×ŒûÿÿÿÿH¨8RBLOCKERZVULNERABILITY
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ı³ÒõH©8RMAJORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHª8RINFOZ
+CODE_SMELL
+csquid:S1135""2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿH«8RINFOZ
+CODE_SMELL
+}squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Öôã¸úÿÿÿÿH¬8RMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‘Ã™H­8RMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÚçÆ¡ÿÿÿÿÿH®8RMAJORZ
+CODE_SMELL

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Family_MVC">
+        <property name="java-output-path" value="/Family_MVC/build/classes"/>
+        <property name="context-root" value="Family_MVC"/>
+    </wb-module>
+</project-modules>

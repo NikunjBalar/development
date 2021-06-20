@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation=" http://www.springframework.org/schema/beans 
+	http://www.springframework.org/schema/beans/spring-beans.xsd
+	http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+
+
+	<bean class="org.jock.jocker.port.init.Water" id="water">
+		<constructor-arg value="3.5f" />
+	</bean>
+
+	<bean class="org.jock.jocker.port.init.Barber" id="barber">
+		<constructor-arg value="chotu" />
+		<constructor-arg value="12" />
+	</bean>
+
+	<bean class="org.jock.jocker.port.init.Trimmer" id="trimmer1">
+		<constructor-arg value="philips" type="String"/>
+		<constructor-arg value="1000" type="String"/>
+	</bean>
+
+	<bean class="org.jock.jocker.port.init.Trimmer" id="trimmer2">
+		<constructor-arg value="philips" type="String"/>
+		<constructor-arg value="500" type="int"/>
+	</bean>
+
+</beans>

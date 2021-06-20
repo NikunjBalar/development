@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\eclips\JAVA_Eclipse\Kuwy\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2250634847.index
+3732794262.index
+3096777511.index
+1816758009.index
+161443595.index
+2824140892.index
+515653430.index

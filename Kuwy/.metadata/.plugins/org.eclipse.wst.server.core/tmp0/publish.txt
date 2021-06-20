@@ -1,0 +1,3 @@
+#Tomcat publish data
+#Tue Jan 28 22:54:40 IST 2020
+org.eclipse.jst.jee.server\:/binary\:D\:\\eclips\\JAVA_Eclipse\\Kuwy\\Kuwy\\WebContent\\WEB-INF\\lib\\spring-web-4.2.2.RELEASE.jar=WEB-INF/lib/spring-web-4.2.2.RELEASE.jar

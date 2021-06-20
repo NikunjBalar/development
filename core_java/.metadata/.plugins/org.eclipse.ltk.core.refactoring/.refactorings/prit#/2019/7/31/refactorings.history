@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;prit#/src/constructorCalling&apos; to &apos;constructorChaining&apos;" description="Rename resource &apos;constructorCalling&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/constructorCalling" name="constructorChaining" stamp="1564494418536" updateReferences="true"/>
+</session>

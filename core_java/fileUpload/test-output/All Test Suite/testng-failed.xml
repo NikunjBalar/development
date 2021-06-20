@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [All Test Suite]">
+  <test name="C:/Users/Swati Patil/IdeaProjects/fileUpload(failed)">
+    <classes>
+      <class name="UploadWindow">
+        <methods>
+          <include name="uploadWindow"/>
+        </methods>
+      </class> <!-- UploadWindow -->
+    </classes>
+  </test> <!-- C:/Users/Swati Patil/IdeaProjects/fileUpload(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->

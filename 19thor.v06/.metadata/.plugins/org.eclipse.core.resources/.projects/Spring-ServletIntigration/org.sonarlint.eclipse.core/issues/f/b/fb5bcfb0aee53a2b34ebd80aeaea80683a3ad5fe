@@ -1,0 +1,13 @@
+
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…—HRMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ε™”ξ8Ξοεμ-H¨RMAJORZ
+CODE_SMELL
+|squid:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(ρ³Ϋϋÿÿÿÿ8ψεμ-HªRBLOCKERZVULNERABILITY
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(θÿ„Θϋÿÿÿÿ8ψεμ-H«RMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(“Φ“V8ψεμ-H¬RMAJORZ
+CODE_SMELL

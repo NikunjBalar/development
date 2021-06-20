@@ -1,0 +1,549 @@
+package com.java.assignment;
+import java.util.Scanner;
+public class Alphabets {
+	public static void main(String[] args) {
+		System.out.println("main methos started");
+		
+		Alphabets a=new Alphabets();
+	/*	a.A();
+		a.B();
+		a.C();
+		a.D();
+		a.E();
+		a.F();*/
+		a.G1();
+		a.G2();
+	/*	a.H();
+		a.I();
+		a.J();
+		a.K();
+		a.L();
+		a.M();
+		a.N();
+		a.O();
+		a.P();
+		a.Q();
+		a.R();
+		a.S();
+		a.T();
+		a.U();
+		a.V();
+		a.W();
+		a.X();
+		a.Y();
+		a.Z();*/
+		
+		System.out.println("main method ended..");
+	}
+	void A() {
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter number of raw");
+		int raw=s.nextInt();
+		System.out.println("Enter number of column");
+		int column=s.nextInt();
+		for (int i = 0; i < raw; i++) {
+			for (int j = 0; j < column; j++) {
+				if (((i==0 && j!=i) && j!=column-1) || (j==0 && j!=i) || (j==(column-1) && i!=0) || i==(raw/2)) {
+					System.out.print(" * ");
+				}
+				else {
+					System.out.print("   ");
+				}
+			}
+			System.out.println();
+		}
+		System.out.println("--------------------");
+	}
+	void B() {
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter number of raw");
+		int raw=s.nextInt();
+		System.out.println("Enter number of column");
+		int column=s.nextInt();
+		for (int i = 0; i < raw; i++) {
+			for (int j = 0; j < column; j++) {
+				if (i==0 || j==0 || (j==(column-1) && i!=(raw/2)) || (i==(raw/2) && j!=(column-1)) || i==(raw-1)) {
+					System.out.print(" * ");
+				}
+				else {
+					System.out.print("   ");
+				}
+			}
+			System.out.println();
+		}
+		System.out.println("--------------------");
+	}
+	void C() {
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter number of raw");
+		int raw=s.nextInt();
+		System.out.println("Enter number of column");
+		int column=s.nextInt();
+		for (int i = 0; i < raw; i++) {
+			for (int j = 0; j < column; j++) {
+				if (i==0 || j==0 || i==(raw-1)) {
+					System.out.print(" * ");
+				}
+				else {
+					System.out.print("   ");
+				}
+			}
+			System.out.println();
+		}
+		System.out.println("--------------------");
+	}
+	void D() {
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter number of raw");
+		int raw=s.nextInt();
+		System.out.println("Enter number of column");
+		int column=s.nextInt();
+		for (int i = 0; i < raw; i++) {
+			for (int j = 0; j < column; j++) {
+				if (j==1 || (i==0 && j!=column-1) || (i==raw-1 && j!=column-1) || (j==(column-1) && i!=j && i+j!=column-1)) {
+					System.out.print(" * ");
+				}
+				else {
+					System.out.print("   ");
+				}
+			}
+			System.out.println();
+		}
+		System.out.println("--------------------");
+	}
+	void E() {
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter number of raw");
+		int raw=s.nextInt();
+		System.out.println("Enter number of column");
+		int column=s.nextInt();
+		for (int i = 0; i < raw; i++) {
+			for (int j = 0; j < column; j++) {
+				if (i==0 || j==0 || i==(raw-1) || (i==(raw/2) && j<=column/2)) {
+					System.out.print(" * ");
+				}
+				else {
+					System.out.print("   ");
+				}
+			}
+			System.out.println();
+		}
+		System.out.println("--------------------");
+	}
+	void F() {
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter number of raw");
+		int raw=s.nextInt();
+		System.out.println("Enter number of column");
+		int column=s.nextInt();
+		for (int i = 0; i < raw; i++) {
+			for (int j = 0; j < column; j++) {
+				if (i==0 || j==0 || (i==(raw/2) && j<=column/2)) {
+					System.out.print(" * ");
+				}
+				else {
+					System.out.print("   ");
+				}
+			}
+			System.out.println();
+		}
+		System.out.println("--------------------");
+	}
+	void G1() {
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter number of raw");
+		int raw=s.nextInt();
+		System.out.println("Enter number of column");
+		int column=s.nextInt();
+		for (int i = 0; i < raw; i++) {
+			for (int j = 0; j < column; j++) {
+				if (i==0 || j==0 || i==(raw-1) || (j==(column-1) && i>=raw/2) || ((i==raw/2) && j!=1)) {
+					System.out.print(" * ");
+				}
+				else {
+					System.out.print("   ");
+				}
+			}
+			System.out.println();
+		}
+		System.out.println("--------------------");
+	}
+	void G2() {
+		Scanner s=new Scanner(System.in);
+		System.out.println("enter the number of raw");
+		int raw=s.nextInt();
+		System.out.println("enter the number of column");
+		int column=s.nextInt();
+		for (int i = 0; i < raw; i++) {
+			for (int j = 0; j < column; j++) {
+				if (i==0 || j==0 || (i==raw-1 && j<=column/2) || (j==column/2 && i>=raw/2) || (i==raw/2 && j>=column/2) || (j==column-1 && i>=raw/2)) {
+					System.out.print(" * ");
+				} else {
+					System.out.print("   ");
+				}
+			}
+			System.out.println();
+		}
+		System.out.println("-----------------");
+	}
+	void H() {
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter number of raw");
+		int raw=s.nextInt();
+		System.out.println("Enter number of column");
+		int column=s.nextInt();
+		for (int i = 0; i < raw; i++) {
+			for (int j = 0; j < column; j++) {
+				if (j==0 || j==column-1 || i==(raw/2)) {
+					System.out.print(" * ");
+				}
+				else {
+					System.out.print("   ");
+				}
+			}
+			System.out.println();
+		}
+		System.out.println("--------------------");
+	}
+	void I() {
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter number of raw");
+		int raw=s.nextInt();
+		System.out.println("Enter number of column");
+		int column=s.nextInt();
+		for (int i = 0; i < raw; i++) {
+			for (int j = 0; j < column; j++) {
+				if (i==0 || j==(column/2) || i==(raw-1)) {
+					System.out.print(" * ");
+				}
+				else {
+					System.out.print("   ");
+				}
+			}
+			System.out.println();
+		}
+		System.out.println("--------------------");
+	}
+	void J() {
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter number of raw");
+		int raw=s.nextInt();
+		System.out.println("Enter number of column");
+		int column=s.nextInt();
+		for (int i = 0; i < raw; i++) {
+			for (int j = 0; j < column; j++) {
+				if (i==0 || j==(column/2) || (i==(raw-1) && j<=column/2 )) {
+					System.out.print(" * ");
+				}
+				else {
+					System.out.print("   ");
+				}
+			}
+			System.out.println();
+		}
+		System.out.println("--------------------");
+	}
+	void K() {
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter number of raw");
+		int raw=s.nextInt();
+		System.out.println("Enter number of column");
+		int column=s.nextInt();
+		for (int i = 0; i < raw; i++) {
+			for (int j = 0; j < column; j++) {
+				if (j==0 || (i==raw/2 && i>=j) || ((i==j || i+j==raw-1) && j>=column/2 )) {
+					System.out.print(" * ");
+				}
+				else {
+					System.out.print("   ");
+				}
+			}
+			System.out.println();
+		}
+		System.out.println("--------------------");
+	}
+	void L() {
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter number of raw");
+		int raw=s.nextInt();
+		System.out.println("Enter number of column");
+		int column=s.nextInt();
+		for (int i = 0; i < raw; i++) {
+			for (int j = 0; j < column; j++) {
+				if (j==0 || i==(raw-1)) {
+					System.out.print(" * ");
+				}
+				else {
+					System.out.print("   ");
+				}
+			}
+			System.out.println();
+		}
+		System.out.println("--------------------");
+	}
+	void M() {
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter number of raw");
+		int raw=s.nextInt();
+		System.out.println("Enter number of column");
+		int column=s.nextInt();
+		for (int i = 0; i < raw; i++) {
+			for (int j = 0; j < column; j++) {
+				if (j==0 || j==(column-1) || ((i==j || i+j==raw-1) && i<=(column/2))) {
+					System.out.print(" * ");
+				}
+				else {
+					System.out.print("   ");
+				}
+			}
+			System.out.println();
+		}
+		System.out.println("--------------------");
+	}
+	void N() {
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter number of raw");
+		int raw=s.nextInt();
+		System.out.println("Enter number of column");
+		int column=s.nextInt();
+		for (int i = 0; i < raw; i++) {
+			for (int j = 0; j < column; j++) {
+				if (j==0 || j==column-1 || i==j) {
+					System.out.print(" * ");
+				}
+				else {
+					System.out.print("   ");
+				}
+			}
+			System.out.println();
+		}
+		System.out.println("--------------------");
+	}
+	void O() {
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter number of raw");
+		int raw=s.nextInt();
+		System.out.println("Enter number of column");
+		int column=s.nextInt();
+		for (int i = 0; i < raw; i++) {
+			for (int j = 0; j < column; j++) {
+				if (i==0 || j==0 || i==(raw-1) || j==(column-1)) {
+					System.out.print(" * ");
+				}
+				else {
+					System.out.print("   ");
+				}
+			}
+			System.out.println();
+		}
+		System.out.println("--------------------");
+	}
+	void P() {
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter number of raw");
+		int raw=s.nextInt();
+		System.out.println("Enter number of column");
+		int column=s.nextInt();
+		for (int i = 0; i < raw; i++) {
+			for (int j = 0; j < column; j++) {
+				if (j==0 || i==0 || i==(raw/2) || (j==(column-1)) && i<=(raw/2)) {
+					System.out.print(" * ");
+				}
+				else {
+					System.out.print("   ");
+				}
+			}
+			System.out.println();
+		}
+		System.out.println("--------------------");
+	}
+	void Q() {
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter number of raw");
+		int raw=s.nextInt();
+		System.out.println("Enter number of column");
+		int column=s.nextInt();
+		for (int i = 0; i < raw; i++) {
+			for (int j = 0; j < column; j++) {
+				if ((i==0 && j!=column-1) || (j==0 && i!=raw-1) || (i==(raw-2) && j!=column-1) || (j==(column-2) && i!=raw-1) || (i==j && i>=raw/2)) {
+					System.out.print(" * ");
+				}
+				else {
+					System.out.print("   ");
+				}
+			}
+			System.out.println();
+		}
+		System.out.println("--------------------");
+	}
+	void R() {
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter number of raw");
+		int raw=s.nextInt();
+		System.out.println("Enter number of column");
+		int column=s.nextInt();
+		for (int i = 0; i < raw; i++) {
+			for (int j = 0; j < column; j++) {
+				if (i==0 || j==0 || (j==(column-1) && i<=raw/2) || i==raw/2 || (i==j && j>=column/2)) {
+					System.out.print(" * ");
+				}
+				else {
+					System.out.print("   ");
+				}
+			}
+			System.out.println();
+		}
+		System.out.println("--------------------");
+	}
+	void S() {
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter number of raw");
+		int raw=s.nextInt();
+		System.out.println("Enter number of column");
+		int column=s.nextInt();
+		for (int i = 0; i < raw; i++) {
+			for (int j = 0; j < column; j++) {
+				if (i==0 || (i==raw/2) || i==(raw-1) || (j==0 && i<=raw/2) || (j==column-1 && i>=raw/2)) {
+					System.out.print(" * ");
+				}
+				else {
+					System.out.print("   ");
+				}
+			}
+			System.out.println();
+		}
+		System.out.println("--------------------");
+	}
+	void T() {
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter number of raw");
+		int raw=s.nextInt();
+		System.out.println("Enter number of column");
+		int column=s.nextInt();
+		for (int i = 0; i < raw; i++) {
+			for (int j = 0; j < column; j++) {
+				if (i==0 || j==column/2) {
+					System.out.print(" * ");
+				}
+				else {
+					System.out.print("   ");
+				}
+			}
+			System.out.println();
+		}
+		System.out.println("--------------------");
+	}
+	void U() {
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter number of raw");
+		int raw=s.nextInt();
+		System.out.println("Enter number of column");
+		int column=s.nextInt();
+		for (int i = 0; i < raw; i++) {
+			for (int j = 0; j < column; j++) {
+				if ((j==0 || i==raw-1 || j==column-1)) { 
+					System.out.print(" * ");
+				}
+				else {
+					System.out.print("   ");
+				}
+			}
+			System.out.println();
+		}
+		System.out.println("--------------------");
+	}
+	void V() {
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter number of raw");
+		int raw=s.nextInt();
+		System.out.println("Enter number of column");
+		int column=s.nextInt();
+		for (int i = 0; i < raw; i++) {
+			for (int j = 0; j < column; j++) {
+				if (((j==0 || j==column-1) && i<=raw/2) || ((j==(column/2)) && i==raw-1) || (i==raw-2 && j==column-2) || (i+j+1==raw && i==raw-2)){
+					System.out.print(" * ");
+				}
+				else {
+					System.out.print("   ");
+				}
+			}
+			System.out.println();
+		}
+		System.out.println("--------------------");
+	}
+	void W() {
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter number of raw");
+		int raw=s.nextInt();
+		System.out.println("Enter number of column");
+		int column=s.nextInt();
+		for (int i = 0; i < raw; i++) {
+			for (int j = 0; j < column; j++) {
+				if (j==0 || j==column-1 || (i==j && i>=raw/2) || (i+j==raw-1 && i>=raw/2)) {
+					System.out.print(" * ");
+				}
+				else {
+					System.out.print("   ");
+				}
+			}
+			System.out.println();
+		}
+		System.out.println("--------------------");
+	}
+	void X() {
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter number of raw");
+		int raw=s.nextInt();
+		System.out.println("Enter number of column");
+		int column=s.nextInt();
+		for (int i = 0; i < raw; i++) {
+			for (int j = 0; j < column; j++) {
+				if (i==j || i+j==raw-1) {
+					System.out.print(" * ");
+				}
+				else {
+					System.out.print("   ");
+				}
+			}
+			System.out.println();
+		}
+		System.out.println("--------------------");
+	}
+	void Y() {
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter number of raw");
+		int raw=s.nextInt();
+		System.out.println("Enter number of column");
+		int column=s.nextInt();
+		for (int i = 0; i < raw; i++) {
+			for (int j = 0; j < column; j++) {
+				if ((i==j && i<=raw/2) || (j==column/2 && i>=raw/2 ) || (i+j==raw-1) && j>=column/2) {
+					System.out.print(" * ");
+				}
+				else {
+					System.out.print("   ");
+				}
+			}
+			System.out.println();
+		}
+		System.out.println("--------------------");
+	}
+	void Z() {
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter number of raw");
+		int raw=s.nextInt();
+		System.out.println("Enter number of column");
+		int column=s.nextInt();
+		for (int i = 0; i < raw; i++) {
+			for (int j = 0; j < column; j++) {
+				if (i==0 || i+j==raw-1 || i==(raw-1)) {
+					System.out.print(" * ");
+				}
+				else {
+					System.out.print("   ");
+				}
+			}
+			System.out.println();
+		}
+	}
+}

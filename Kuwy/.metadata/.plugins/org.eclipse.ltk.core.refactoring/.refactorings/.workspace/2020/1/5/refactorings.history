@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;Kuwy/WebContent/WEB-INF&apos;" deleteContents="false" description="Delete resource &apos;Kuwy/WebContent/WEB-INF&apos;" element1="/Kuwy/WebContent/WEB-INF" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1580228039235"/>&#x0A;<refactoring comment="Delete resource &apos;Kuwy/WebContent/WebContent&apos;" deleteContents="false" description="Delete resource &apos;Kuwy/WebContent/WebContent&apos;" element1="/Kuwy/WebContent/WebContent" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1580228070313"/>
+</session>

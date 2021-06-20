@@ -1,0 +1,5 @@
+package com.kuwy.entity;
+
+public class ProfileDetailsEntity {
+
+}
